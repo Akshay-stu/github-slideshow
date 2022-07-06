@@ -1,7 +1,7 @@
 ---
-# layout: file
-# title: *"Welcome to our second file!"*
+layout: file
+title: "Welcome to our second file!"
 ---
-Your text
+# Your text
 Use the left arrow to go back!
 > This is quote
